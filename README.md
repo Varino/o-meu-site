@@ -1,10 +1,10 @@
 
 ![Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-- [Bem vindo](#bem-vindo-ao-curso-git-e-github)
-- [Módulos](#módulos)
-- [Links](#links)
-- [Tabela](#tabela)
+[Bem vindo](#bem-vindo-ao-curso-git-e-github)
+| [Módulos](#módulos)
+| [Links](#links)
+| [Tabela](#tabela)
 # Bem vindo ao curso **Git** e **Github**.
 Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
 
