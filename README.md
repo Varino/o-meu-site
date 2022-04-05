@@ -1,12 +1,7 @@
-# Bem vindo ao curso Git e Github.
-Nesse curso você vai dominar todo o github
+# Bem vindo ao curso **Git** e **Github**.
+Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
 
 ## Módulos:
-Entender o que é o github.
-Aprender sobre repositórios.
-Tranbalhar com branchs.
-
-# h1
-## h2
-### h3
-#### h4
+_Entender o que é o **github**.
+Aprender sobre **repositórios**.
+Tranbalhar com **branchs**._
