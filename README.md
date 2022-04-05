@@ -9,9 +9,9 @@ Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
 * Tranbalhar com **branchs**.
 
 1. Entender o que é o **github**.
-  1. sub item
-  2. sub item
-  3. sub item
+    1.1. sub item
+    1.2. sub item
+    1.3. sub item
 2. Aprender sobre **repositórios**.
 3. Tranbalhar com **branchs**.
 4. Test
