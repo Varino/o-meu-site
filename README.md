@@ -36,7 +36,7 @@ function hello() {
 ```
 
 Propriedades | Descrição
------------- | ---------
+-- | --
 name | Nome do usuário
 size | Tamanho do campo
 background | Cor de fundo
