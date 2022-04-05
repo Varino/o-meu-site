@@ -20,3 +20,11 @@ Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
 
 >Este é um block code.\
 >Este é um block code.
+
+
+
+```js
+function hello() {
+    return "hello";
+}
+```
