@@ -7,3 +7,6 @@ Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
 - Entender o que é o **github**.
 - Aprender sobre **repositórios**.
 - Tranbalhar com **branchs**.
+
+### Links:
+[Youtube](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
