@@ -34,3 +34,9 @@ function hello() {
     return "hello";
 }
 ```
+
+Propriedades | Descrição
+------------ | ---------
+name | Nome do usuário
+size | Tamanho do campo
+background | Cor de fundo
