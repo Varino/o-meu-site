@@ -3,6 +3,12 @@
 
 # Bem vindo ao curso **Git** e **Github**.
 Nesse curso você vai dominar todo o github. _Do zero ao avançado!_
+
+**Ultimos updates:**
+
+- [x] Login com Google.
+- [ ] Login com Facebook.
+
 ## Módulos:
 * Entender o que é o **github**.
 * Aprender sobre **repositórios**.
